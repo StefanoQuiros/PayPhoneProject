@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "eg74e5CcJfBf6+ccQgxpUGapEVxcXQAkr8RENgj1WRk=",
+  "Source": "WalletApiPayphone",
+  "BasePath": "_content/WalletApiPayphone",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

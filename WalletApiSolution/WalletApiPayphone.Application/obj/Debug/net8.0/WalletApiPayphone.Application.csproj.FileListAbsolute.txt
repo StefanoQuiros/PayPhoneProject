@@ -1,0 +1,15 @@
+C:\Users\INTEL\Documents\GitHub\WalletApiSolution\WalletApiPayphone.Application\bin\Debug\net8.0\WalletApiPayphone.Application.deps.json
+C:\Users\INTEL\Documents\GitHub\WalletApiSolution\WalletApiPayphone.Application\bin\Debug\net8.0\WalletApiPayphone.Application.dll
+C:\Users\INTEL\Documents\GitHub\WalletApiSolution\WalletApiPayphone.Application\bin\Debug\net8.0\WalletApiPayphone.Application.pdb
+C:\Users\INTEL\Documents\GitHub\WalletApiSolution\WalletApiPayphone.Application\bin\Debug\net8.0\WalletApiPayphone.Domain.dll
+C:\Users\INTEL\Documents\GitHub\WalletApiSolution\WalletApiPayphone.Application\bin\Debug\net8.0\WalletApiPayphone.Domain.pdb
+C:\Users\INTEL\Documents\GitHub\WalletApiSolution\WalletApiPayphone.Application\obj\Debug\net8.0\WalletApiPayphone.Application.csproj.AssemblyReference.cache
+C:\Users\INTEL\Documents\GitHub\WalletApiSolution\WalletApiPayphone.Application\obj\Debug\net8.0\WalletApiPayphone.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTEL\Documents\GitHub\WalletApiSolution\WalletApiPayphone.Application\obj\Debug\net8.0\WalletApiPayphone.Application.AssemblyInfoInputs.cache
+C:\Users\INTEL\Documents\GitHub\WalletApiSolution\WalletApiPayphone.Application\obj\Debug\net8.0\WalletApiPayphone.Application.AssemblyInfo.cs
+C:\Users\INTEL\Documents\GitHub\WalletApiSolution\WalletApiPayphone.Application\obj\Debug\net8.0\WalletApiPayphone.Application.csproj.CoreCompileInputs.cache
+C:\Users\INTEL\Documents\GitHub\WalletApiSolution\WalletApiPayphone.Application\obj\Debug\net8.0\WalletAp.A7672703.Up2Date
+C:\Users\INTEL\Documents\GitHub\WalletApiSolution\WalletApiPayphone.Application\obj\Debug\net8.0\WalletApiPayphone.Application.dll
+C:\Users\INTEL\Documents\GitHub\WalletApiSolution\WalletApiPayphone.Application\obj\Debug\net8.0\refint\WalletApiPayphone.Application.dll
+C:\Users\INTEL\Documents\GitHub\WalletApiSolution\WalletApiPayphone.Application\obj\Debug\net8.0\WalletApiPayphone.Application.pdb
+C:\Users\INTEL\Documents\GitHub\WalletApiSolution\WalletApiPayphone.Application\obj\Debug\net8.0\ref\WalletApiPayphone.Application.dll
